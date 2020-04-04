@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="email">Электронная почта</string>
+    <string name="ok">OK</string>
+    <string name="clear">Очистить</string>
+    <string name="Result1"> Подписка на рассылку успешно оформлена для пользователя</string>
+    <string name="Result2">на электронный адрес</string>
+</resources>
